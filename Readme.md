@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TR-TECH-GUIDE/Telegram-Auto-Filter-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/PROFESSOR-SAAB/Telegram-Auto-Filter-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
