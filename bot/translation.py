@@ -10,7 +10,7 @@ class Translation(object):
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
 For More Details Click Help Button Below..
-@SLBotsOfficial
+@PUNJABI_FILMY_PITAARA_786
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@SLBotsOfficial
+@PUNJABI_FILMY_PITAARA_786
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/TharukRenuja">Tharuk</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/PROFFASER_SAAB">Tharuk</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/TR-TECH-GUIDE/Telegram-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/PROFESSOR-SAAB/Telegram-Auto-Filter-Bot">Click Me</a></i>
 """
